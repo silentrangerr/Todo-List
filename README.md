@@ -6,4 +6,4 @@ Stores data in Mlabs using moongoose!
 
 ![ScreenShot](2.png)
 
-![ScreenShot](1.jpg)
+![ScreenShot](1.png)
